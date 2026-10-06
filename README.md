@@ -1,5 +1,3 @@
-# Automated-Analysis-Pipeline
-
 # Automated Analysis Pipeline: Diabetes Prediction (Pima Indians Diabetes Database)
 
 Colab Link: (https://colab.research.google.com/drive/1vghxQ6fQZAcZX5pmrux9sK3e0CKY7k3R#scrollTo=OVaf3I1zyE70)
