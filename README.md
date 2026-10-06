@@ -30,7 +30,6 @@ Four new automated blocks (A-D), plus modified settings and extra documentation.
 |---|---|
 | `Automated_Analysis_Pipeline_Notebook.ipynb` | The completed notebook |
 | `diabetes.csv` | The dataset as a CSV. **Replace the name with your file's name.** |
-| `diabetes.<original extension>` | The dataset in its original format, if it differs from CSV. **Delete this row if the original is already CSV.** |
 | `README.md` | This file |
 
 ## How to run the analysis
